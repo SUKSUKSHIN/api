@@ -36,9 +36,4 @@ public class HomeController {
 		return "home";
 	}
 	
-	@RequestMapping(value = "/sukwon", method = RequestMethod.GET)
-	public String sukwon() {
-		return  "sukwon";
-	}
-	
 }
