@@ -13,5 +13,6 @@
 </h1>
 
 <P>  <a href = "hoseok">호석</a></P>
+<p>  <a href = "/eunbi">은비</a></p>
 </body>
 </html>

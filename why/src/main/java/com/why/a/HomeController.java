@@ -36,4 +36,10 @@ public class HomeController {
 		return "home";
 	}
 	
+	@RequestMapping(value = "/eunbi", method = RequestMethod.GET)
+	public String eunbi() {
+		logger.info("go to eunbi.jsp");
+		return "eunbi";
+	}
+	
 }
